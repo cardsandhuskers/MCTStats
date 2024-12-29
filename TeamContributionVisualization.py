@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-NUM_EVENTS = 6
+NUM_EVENTS = 7
 
 
 def graph_scores(event_df, i):
